@@ -1,0 +1,1 @@
+SELECT * FROM giolam.lich_lam_viec;
